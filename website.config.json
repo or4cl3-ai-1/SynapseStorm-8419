@@ -1,1 +1,13 @@
-{"id":"kat79htblj3fdfqahodkkjntli1g3w7m","name":"My Website","description":"A website built with Runable","url":"https://example.com","ogImage":"/og-image.png","favicon":"/vite.svg","twitter":{"card":"summary_large_image","site":"@runable"},"themeColor":"#000000","previewPort":7149,"previewUrl":"https://7149-i896g3l6o9hbmp87788f6.e2b.app"}
+{
+  "id": "kat79htblj3fdfqahodkkjntli1g3w7m",
+  "name": "SynapseStorm",
+  "description": "SynapseStorm by or4cl3 AI Solutions ",
+  "url": "https://example.com",
+  "ogImage": "/og-image.png",
+  "favicon": "/vite.svg",
+  "twitter": {
+    "card": "summary_large_image",
+    "site": ""
+  },
+  "themeColor": "#000000"
+}
