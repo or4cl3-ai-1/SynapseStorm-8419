@@ -121,3 +121,8 @@ SynapseStorm is the infrastructure layer of the Or4cl3 AI Solutions research por
 *Free for life: educators, students, non-profits, open-source.*
 
 </div>
+
+## License
+
+This project is licensed under the **Or4cl3 Open Model License (OOML) v1.0**.
+See [LICENSE.md](LICENSE.md) for full terms.
